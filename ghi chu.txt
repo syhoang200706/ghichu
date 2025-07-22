@@ -111,3 +111,6 @@ __________________________________
 - Giới thiệu máy ảo, cài đặt máy ảo
 - Giới thiệu linux, hệ điều hành
 - SQL:MK sy152006@
+
+
+https://static.thenounproject.com/png/94818-200.png

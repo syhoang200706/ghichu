@@ -226,7 +226,7 @@ inherit	Kế thừa từ phần tử cha
         Gradient (từ CSS3)	background-image: linear-gradient(to right, red, yellow);
 
          -------------------------------------------------------------------------------------------------------------------
-Sy dep trai
+
 
 
 
